@@ -6,7 +6,14 @@ NumPy can be used to perform a wide variety of mathematical operations on arrays
 to Python that guarantee efficient calculations with arrays and matrices and it supplies an enormous 
 library of high-level mathematical functions that operate on these arrays and matrices.
 
-# Benifits
+# Benefits
 - Execution Efficiency
 - Size Efficiency
 - Functionalities
+
+# Dependencies
+
+``` python
+pip install numpy
+pip install jupyter
+```
