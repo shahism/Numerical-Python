@@ -19,4 +19,4 @@ pip install jupyter
 ```
 
 - Done on :
-[x] January 2022 (Winter Vacations Fall'21)
+1. [x] January 2022 `Winter Vacations Fall'21`
