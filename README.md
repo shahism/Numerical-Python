@@ -17,3 +17,6 @@ library of high-level mathematical functions that operate on these arrays and ma
 pip install numpy
 pip install jupyter
 ```
+
+- Done on :
+[x] January 2022 (Winter Vacations Fall'21)
